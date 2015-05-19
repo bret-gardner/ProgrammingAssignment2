@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-#This pair of functions are used to create a special object
+#This pair of functions is used to create a special object
 #that stores a matrix and caches its inverse.
 
 
